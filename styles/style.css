@@ -1,0 +1,9 @@
+body, header {
+    padding: 0px;
+    margin: 0px;
+    font-family: Verdana;
+}
+
+body{
+    background-color: #86CB92;
+}
