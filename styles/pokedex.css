@@ -1,11 +1,4 @@
-#main-container{
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    background-color: #474350;
-    margin: 50px 30px 50px 30px;
-    border-radius: 10px;
-}
+
 
 .poke-card{
     border: 5px solid #C1292E;
